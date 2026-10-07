@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Salesforce consultant · Public Sector Solutions</strong><br>
-  Permitting, licensing and inspection platforms — and the portals people actually use.
+  Permitting, licensing and inspection platforms, plus the portals people actually use.
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ### What I do
 
-I design and build Salesforce solutions for the public sector — the kind of systems
-where a permit, an inspection or a plan review has to move through a real workflow,
-with real money and real deadlines attached.
+I design and build Salesforce solutions for the public sector. These are systems where
+a permit, an inspection or a plan review has to move through a real workflow, with real
+money and real deadlines attached.
 
 My work covers the full delivery path: discovery and process analysis, security and
 sharing design, configuration and Apex, Experience Cloud portals, and the deployment
@@ -43,7 +43,7 @@ I build the skills and plugins my team uses day to day
 ### How I work
 
 Design decisions get traced back to a source. When two sources disagree, I find out
-why before writing anything down as fact — and I keep hypotheses marked as hypotheses.
+why before writing anything down as fact, and I keep hypotheses marked as hypotheses.
 Most of the hard problems in this work are not technical; they are figuring out what
 the system is really supposed to do.
 
